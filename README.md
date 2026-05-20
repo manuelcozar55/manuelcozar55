@@ -26,7 +26,7 @@
 🔭  Now       →  AI Engineer & Innovation Researcher @ Fundación CIRCE (Zaragoza)
 🤖  Focus     →  End-to-End AI Systems · RAG Pipelines · Agentic AI · RL · HITL
 🎓  Study     →  MBA @ CESTE (2026) · B.Sc. Computer Engineering · USJ (2024)
-📜  Certs     →  10 certifications — IBM · AWS · Google
+📜  Certs     →  19 certifications — IBM · AWS · Google · Anthropic · Scrum Alliance
 🌍  Languages →  Spanish (native) · English (C1) · German (A2)
 ```
 
@@ -110,11 +110,30 @@ I design and ship **end-to-end AI systems** — from RAG pipelines and multi-age
 | **Generative AI Applications with Amazon Bedrock** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | May 2026 |
 | **Getting Started with AWS Generative AI for Developers** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | May 2026 |
 
-### Generative AI
+### RAG & Generative AI
 
 | Certificate | Issuer | Date |
 |-------------|--------|------|
+| **Advanced RAG with Vector Databases and Retrievers** | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | Mar 2026 |
+| **Build Multimodal Generative AI Applications** | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | Mar 2026 |
+| **Build RAG Applications: Get Started** | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | Mar 2026 |
+| **Vector Databases for RAG: An Introduction** | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) | Mar 2026 |
+| **Develop Generative AI Applications** | ![Coursera](https://img.shields.io/badge/Coursera%20%2F%20IBM-0056D2?style=flat-square&logo=coursera&logoColor=white) | Mar 2026 |
 | **Gen AI: Beyond the Chatbot** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | Apr 2026 |
+
+### AI Tooling & Protocols
+
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| **Claude Code in Action** | ![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=flat-square&logoColor=white) | Mar 2026 |
+| **Introduction to Model Context Protocol** | ![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=flat-square&logoColor=white) | Oct 2025 |
+
+### Business & Strategy
+
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| **AI for Product Owners** | ![Scrum Alliance](https://img.shields.io/badge/Scrum%20Alliance-009FDA?style=flat-square&logoColor=white) | Mar 2026 |
+| **The Fresh Connection** — Value Chain Management | ![TFC](https://img.shields.io/badge/The%20Fresh%20Connection-F97316?style=flat-square&logoColor=white) | Jun 2025 |
 
 </div>
 
