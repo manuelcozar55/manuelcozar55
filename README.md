@@ -143,8 +143,6 @@ I design and ship **end-to-end AI systems** — from RAG pipelines and multi-age
 
 <div align="center">
 
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuelcozar55&bg_color=0d1117&color=58A6FF&line=1f6feb&point=3fb950&area=true&area_color=1f3a5f&hide_border=true&radius=8" width="100%" alt="GitHub contribution activity"/>
 
 </div>
