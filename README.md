@@ -143,8 +143,6 @@ I design and ship **end-to-end AI systems** — from RAG pipelines and multi-age
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelcozar55&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&layout=compact&langs_count=8&card_width=500&include_all_commits=true" alt="Top Languages"/>
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manuelcozar55&bg_color=0d1117&color=58A6FF&line=1f6feb&point=3fb950&area=true&area_color=1f3a5f&hide_border=true&radius=8" width="100%" alt="GitHub contribution activity"/>
